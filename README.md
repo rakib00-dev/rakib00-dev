@@ -9,4 +9,4 @@
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
 
-| `gruvbox_light` ![gruvbox_light][gruvbox_light] | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
+[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light
