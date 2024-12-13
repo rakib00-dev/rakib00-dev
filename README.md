@@ -9,7 +9,7 @@
  
  👨🏽‍💻 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Reactjs **
+ 🌱 I’m currently learning **Reactjs ⚛️**
 </div>
 
 
