@@ -1,5 +1,18 @@
 <h1 align='center'>Hello👋 I'm Rakib ‍💻 </h1>
 
+
+<h3 align="center">A passionate Web developer from Bangladesh BD</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 👨🏽‍💻 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Reactjs **
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
