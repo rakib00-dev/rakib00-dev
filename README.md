@@ -7,3 +7,6 @@
 </picture>
 
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+
+
+| `gruvbox_light` ![gruvbox_light][gruvbox_light] | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
