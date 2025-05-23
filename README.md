@@ -9,7 +9,7 @@
  
  👨🏽‍💻 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning {inProgress: 76%} **Reactjs ⚛️**
+ 🌱 I’m currently learning {inProgress: 77%} **Reactjs ⚛️**
 </div>
 
 
