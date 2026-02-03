@@ -8,7 +8,7 @@
  
  👨🏽‍💻 I’m currently applying to **jobs for frontend developer**
  
- 🌱 I’m currently learning {inProgress: 93%} **Full-stack with Nextjs, Expressjs, MongoDb, Nodejs ⚛️**
+ 🌱 I’m currently learning {inProgress: 93%} **Full-stack with Nextjs, Expressjs, MongoDb, Nodejs 🍃**
 </div>
 
 
